@@ -6,7 +6,7 @@
 
 Создаем namespace для нового задания:
 
-![Uploading kubdz5.PNG…]()
+![kubdz5](https://github.com/user-attachments/assets/b6548da4-82c2-4423-8c36-8ac83f39e839)
 
 ### 1. Создать Deployment приложения _frontend_ из образа nginx с количеством реплик 3 шт.
 
